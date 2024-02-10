@@ -1,0 +1,19 @@
+.btn-outline-success {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.btn-outline-success:hover {
+  background-color: #0067b7;
+  color: white;
+  border-color: #0067b7;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-item:nth-child(2) a {
+  color: #FFD700;
+}
