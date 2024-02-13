@@ -17,3 +17,12 @@
 .navbar-nav .nav-item:nth-child(2) a {
   color: #FFD700;
 }
+
+header#title {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
