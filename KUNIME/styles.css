@@ -29,3 +29,29 @@
   .rotar {
     transform: rotate(25deg);
   }
+
+  section#features {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+
+  section#features h3 {
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+
+  section#features i {
+    color: #ef8172;
+  }
+
+  section#features i:hover {
+    color: #ff4c68;
+  }
+
+  section#features p {
+    color: #8f8f8f;
+    font-family: 'Montserrat';
+  }
+  
+  
