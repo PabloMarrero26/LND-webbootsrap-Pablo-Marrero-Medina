@@ -53,5 +53,21 @@
     color: #8f8f8f;
     font-family: 'Montserrat';
   }
+
+  #testimonials {
+    background-size: cover;
+    background-position: center;
+    background-color: #ef8172;
+  }
+  
+  #press {
+    background-color:#ef8172 !important;
+  }
+
+  #press img {
+    margin: 10px;
+    width: 150px;
+    height: auto;
+  }
   
   
