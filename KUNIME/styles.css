@@ -118,3 +118,29 @@
   background-color: white;
   border-color: black;
 }
+
+#footer {
+  background-color: #ef8172;
+  color: #fff;
+  padding: 80px;
+  text-align: center;
+}
+
+.redes-sociales {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 45px;
+}
+
+.redes-sociales a {
+  color: #fff;
+  font-size: 1.5rem;
+  transition: 0.3s;
+  margin: 0 25px;
+}
+
+.redes-sociales a:hover {
+  color: #ff4c68;
+}
