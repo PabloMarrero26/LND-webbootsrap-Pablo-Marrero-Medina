@@ -71,4 +71,50 @@
     height: auto;
   }
   
-  
+  #suscripciones {
+    background-color: white !important;
+  }
+
+  .card {
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.card-header {
+  background-color: white;
+}
+
+.card-title {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-body h3 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.card-body h4 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.card-body p {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.card-body button {
+  font-family: Montserrat;
+  font-weight: 700;
+  color: black;
+  background-color: white;
+  border-color: black;
+}
